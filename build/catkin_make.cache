@@ -1,0 +1,2 @@
+map_my_world:my_robot:where_am_i
+-DCATKIN_DEVEL_PREFIX=/home/waqas/Desktop/Desktop_backup/projects/Project4/devel -DCMAKE_INSTALL_PREFIX=/home/waqas/Desktop/Desktop_backup/projects/Project4/install -G Unix Makefiles
